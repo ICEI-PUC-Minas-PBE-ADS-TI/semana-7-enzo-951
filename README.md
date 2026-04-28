@@ -9,7 +9,7 @@ Nesta atividade, você dará os primeiros passos com JavaScript, explorando na p
 
 ## Print do console do navegador
 
-![alt text]({0F44E904-9F76-422E-A7FA-82E62D98433D}.png)
+![print do console com responsividade](console.png)
 
 
 (*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo responsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
